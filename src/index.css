@@ -13,7 +13,23 @@ body {
 
 a {
   text-decoration: none;
-  color: indianred;
+  color: inherit;
   line-height: 1;
   cursor: pointer;
+}
+
+.container {
+  padding-left:1%;
+  padding-right:1%;
+}
+
+.btn{
+  background: #fff;
+  color: #212121;
+  padding: 14px 25px;
+  font-size: 16px;
+  border-radius: 30px;
+  cursor: pointer;
+  border: 0;
+  outline: 0;
 }
