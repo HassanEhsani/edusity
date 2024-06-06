@@ -9,10 +9,11 @@ const Navbar = () => {
         <img src={logo} alt="" />
         <ul>
             <li>Home</li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li>Program</li>
+            <li>About Us</li>
+            <li>Campus</li>
+            <li>Testimonials</li>
+            <li>Contact us</li>
         </ul>
     </nav>
   )
